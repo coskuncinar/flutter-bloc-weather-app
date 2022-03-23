@@ -1,16 +1,8 @@
 # flutter weatherapp
 
-A new Flutter project.
+![](https://github.com/coskuncinar/flutter-bloc-weather-app/blob/93563f9eb29cdef1d3662d32fdces38dc21919a3b/screenshots/Screenshot_1647812730.png?raw=true) 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/coskuncinar/flutter-bloc-weather-app/blob/93563f9eb29cdef1d3662d32fdce38dc21919a3b/screenshots/Screenshot_1647812730.png?raw=true"  width="180" height="350" />
+<img src="https://github.com/coskuncinar/flutter-bloc-weather-app/blob/93563f9eb29cdef1d3662d32fdce38dc21919a3b/screenshots/Screenshot_1647812804.png?raw=true"  width="180" height="350" />
+<img src="https://github.com/coskuncinar/flutter-bloc-weather-app/blob/93563f9eb29cdef1d3662d32fdce38dc21919a3b/screenshots/Screenshot_1647812814.png?raw=true"  width="180" height="350" />
+<img src="https://github.com/coskuncinar/flutter-bloc-weather-app/blob/93563f9eb29cdef1d3662d32fdce38dc21919a3b/screenshots/Screenshot_1647812856.png?raw=true"  width="180" height="350" />
